@@ -1,0 +1,23 @@
+body { margin-bottom: 30px; }
+
+section { 
+    margin-top: 50px; 
+    margin-bottom: 30px;
+}
+
+nav { height: 60px }
+        
+#logo-ifpb {
+    position:absolute;
+    z-index:100;
+    top: 25%;
+    left: 30px;
+    width: 120px;
+    height: 165px;
+    background: white;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+input { width: 70px }
