@@ -4,7 +4,7 @@
  *  usando a api do GitHub. 
  */
 
-fetch('https://api.github.com/repos/ajunior/mtpi-simulador/branches/master')
+fetch('https://api.github.com/repos/ajunior/mpti-simulador/branches/master')
     .then(function (response) { return response.json(); })
     .then(function (data) {
         const dateFormat = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
