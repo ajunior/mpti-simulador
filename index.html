@@ -24,7 +24,7 @@
                 <h5>Simulador de Pontuação</h5>
                 <p class="text">Quer simular quantos pontos você tem para participar da seleção do <a href="https://estudante.ifpb.edu.br/cursos/195" target="_blanket">Mestrado Profissional em Tecnologia da Informação</a>? A gente te ajuda!</p>
                 <p class="text">Contruimos esta ferramenta para facilitar a vida de quem quer simular se conseguiria ser aprovado e classificado na seleção do MPTI. Preencha sua pontuação no item 1 (Pontuação do Candidato), "chute" a nota que você acha que consegue tirar no item 2 (Pré-Projeto), escolha uma linha de pesquisa e veja se você seria aprovado e classificado na seleção.</p>
-                <p class="text"><span class="badge badge-warning">Atenção</span> Esta ferramenta deve ser usado <strong>exclusivamente</strong> para fins de simulação da pontuação para seleção do MPTI, ele <strong>não substitui</strong> a planilha de pontuação disponibilizada pela coordenação como anexo do edital, nem garante sua aprovação.</p>
+                <p class="text"><span class="badge badge-warning">Atenção</span> Esta ferramenta deve ser usada <strong>exclusivamente</strong> para fins de simulação da pontuação para seleção do MPTI, ele <strong>não substitui</strong> a planilha de pontuação disponibilizada pela coordenação como anexo do edital, nem garante sua aprovação.</p>
             </div>
         </section>
         <section id="pontuaco-candidato">
@@ -328,7 +328,9 @@
                             <table class="table">
                                 <tbody>
                                     <tr>
-                                        <th class="text-lef align-middle">Pontuação Final (Pontuação do Candidato + Pontuação do Pré-Projeto):</th>
+                                        <th class="text-lef align-middle">
+                                            <button type="button" class="btn btn-outline-success" data-toggle="modal" data-target="#exampleModal"><i class="fas fa-calculator"></i> Calcular</button>
+                                        </th>
                                         <th class="text-right align-middle">89,50</th>
                                     </tr>
                                     <tr>
@@ -342,7 +344,7 @@
                         <table class="table">
                             <tbody>
                                 <tr>
-                                    <th class="text-left">Escolha uma linha de pesquisa:</td>
+                                    <th class="text-left">Selecione uma linha de pesquisa:</td>
                                     <th class="text-right">
                                         <select readonly="readonly">
                                             <option value="1" selected>Gestão e Desenvolvimento de Sistemas</option>
