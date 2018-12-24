@@ -2,7 +2,6 @@
 
 Em Dezembro de 2018 o Instituto Federal da Paraíba - Campus João Pessoa lançou o edital da primeira seleção para o Mestrado Profissional em Tecnologia da Informação (MPTI).
 
-
 # Tecnologias usadas
 
 - HTML 5
