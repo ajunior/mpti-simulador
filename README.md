@@ -12,7 +12,7 @@ Em Dezembro de 2018 o Instituto Federal da Paraíba - Campus João Pessoa lanço
 
 # Contribuições
 
-Esse é um projeto bem simples, que não exige muitas melhorias. Mas, toda contribuição é válida, então, se você encontrar algum bug ou quiser implementar algo interessante que aumente a utilidade do simulador, sinta-se a vontade.
+Esse é um projeto bem simples, que não exige muitas funcionalidades. Mas, toda contribuição é válida, então, se você encontrar algum bug pode abrir uma [issue](https://github.com/ajunior/mpti-simulador/issues). E se quiser implementar algo interessante que aumente a utilidade do simulador, sinta-se a vontade.
 
 ## Passos para contribuir com o projeto
 
@@ -34,4 +34,4 @@ Desenvolvido por [Adjamilton Junior](https://github.com/ajunior).
 # Licença
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-```Esta Licença não se aplica aos seguintes elementos: logotipos do Instituto Federal, Bootstrap e FontAwesome.```
+```Esta Licença não se aplica aos seguintes componentes: logotipos do Instituto Federal, Bootstrap e FontAwesome.```
