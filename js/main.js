@@ -28,3 +28,12 @@ var pontuacaoTotal = 0.0;
 function calcTotalPontuacaoCandidato () {
     
 }
+
+/*
+ *  Bootstrap
+ *  JQuery functions
+ */
+
+ $(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+  })
