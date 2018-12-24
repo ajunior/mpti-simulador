@@ -2,16 +2,17 @@
 
 Em Dezembro de 2018 o Instituto Federal da Paraíba - Campus João Pessoa lançou o edital da primeira seleção para o Mestrado Profissional em Tecnologia da Informação (MPTI).
 
-
 # Tecnologias usadas
 
 - HTML 5
 - CSS 3
 - Vanila Javascript (ECMAScript 6)
+- Bootstrap 4
+- FontAwesome 5
 
 # Contribuições
 
-Esse é um projeto bem simples, que não exige muitas melhorias. Mas, toda contribuição é válida, então, se você encontrar algum bug ou quiser implementar algo interessante que aumente a utilidade do simulador, sinta-se a vontade.
+Esse é um projeto bem simples, que não exige muitas funcionalidades. Mas, toda contribuição é válida, então, se você encontrar algum bug pode abrir uma [issue](https://github.com/ajunior/mpti-simulador/issues). E se quiser implementar algo interessante que aumente a utilidade do simulador, sinta-se a vontade.
 
 ## Passos para contribuir com o projeto
 
@@ -27,7 +28,10 @@ Esse é um projeto bem simples, que não exige muitas melhorias. Mas, toda contr
     - Gráfico de área com a pontuação dos desclassificado, aprovados e classificados.
     - Gráfico de pontos, contendo a menor nota entre os aprovados, a maior nota, a média dos classificados e a pontuação simulada.
 
-# Licença
-Creative Commons.
+# Autoria 
+Desenvolvido por [Adjamilton Junior](https://github.com/ajunior).
 
-    A Licença não se aplica aos logos do Instituto Federal.
+# Licença
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+```Não se aplica aos seguintes componentes: logotipos do Instituto Federal, Bootstrap e FontAwesome.```
