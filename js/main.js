@@ -4,7 +4,7 @@
  *  usando a api do GitHub. 
  */
 
-fetch('https://api.github.com/repos/ajunior/mpti-simulador/branches/master')
+fetch ('https://api.github.com/repos/ajunior/mpti-simulador/branches/master')
     .then(function (response) { return response.json(); })
     .then(function (data) {
         const dateFormat = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
@@ -15,17 +15,16 @@ fetch('https://api.github.com/repos/ajunior/mpti-simulador/branches/master')
         document.getElementById("last-updated").innerHTML = str;
     });
 
-// Limpar os inputs (checkbox e number) da tabela de pontuação do candidato.
-
-function clearInputs() {
-    let el = document.querySelector('#pontuacao-candidato');
-    let child = el.childNodes;
-}
-
-
-
+/*
+ *
+ *
+ * 
+ */
 
 var notaCandidato = 0.0;
 var notaPreProjeto = 0.0;
 var pontuacaoTotal = 0.0;
 
+function calcTotalPontuacaoCandidato () {
+    
+}
