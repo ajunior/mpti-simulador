@@ -8,6 +8,8 @@ Em Dezembro de 2018 o Instituto Federal da Paraíba - Campus João Pessoa lanço
 - HTML 5
 - CSS 3
 - Vanila Javascript (ECMAScript 6)
+- Bootstrap 4
+- FontAwesome 5
 
 # Contribuições
 
@@ -27,7 +29,10 @@ Esse é um projeto bem simples, que não exige muitas melhorias. Mas, toda contr
     - Gráfico de área com a pontuação dos desclassificado, aprovados e classificados.
     - Gráfico de pontos, contendo a menor nota entre os aprovados, a maior nota, a média dos classificados e a pontuação simulada.
 
+# Autoria 
+Desenvolvido por [Adjamilton Junior](https://github.com/ajunior).
+
 # Licença
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-```Esta Licença não se aplica aos logotipos do Instituto Federal, bem como não se aplica as partes de código referente ao Bootstrap e FontAwesome, que possuem suas próprias licenças.```
+```Esta Licença não se aplica aos seguintes elementos: logotipos do Instituto Federal, Bootstrap e FontAwesome.```
