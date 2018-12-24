@@ -15,13 +15,17 @@ fetch('https://api.github.com/repos/ajunior/mpti-simulador/branches/master')
         document.getElementById("last-updated").innerHTML = str;
     });
 
-/*
- *
- *
- *
- */
+// Limpar os inputs (checkbox e number) da tabela de pontuação do candidato.
 
-var notaPontCandidato = 0.0;
+function clearInputs() {
+    let el = document.querySelector('#pontuacao-candidato');
+    let child = el.childNodes;
+}
+
+
+
+
+var notaCandidato = 0.0;
 var notaPreProjeto = 0.0;
 var pontuacaoTotal = 0.0;
 

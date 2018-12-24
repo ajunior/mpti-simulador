@@ -3,6 +3,11 @@
 Em Dezembro de 2018 o Instituto Federal da Paraíba - Campus João Pessoa lançou o edital da primeira seleção para o Mestrado Profissional em Tecnologia da Informação (MPTI).
 
 
+# Tecnologias usadas
+
+- HTML 5
+- CSS 3
+- Vanila Javascript (ECMAScript 6)
 
 # Contribuições
 
@@ -17,7 +22,12 @@ Esse é um projeto bem simples, que não exige muitas melhorias. Mas, toda contr
 5. Fazer um Pull Request para o repostório original.
 
 ## TODO
-- Responsividade
+- Responsividade da página
 - Gráficos comparativos
     - Gráfico de área com a pontuação dos desclassificado, aprovados e classificados.
     - Gráfico de pontos, contendo a menor nota entre os aprovados, a maior nota, a média dos classificados e a pontuação simulada.
+
+# Licença
+Creative Commons.
+
+    A Licença não se aplica aos logos do Instituto Federal.
