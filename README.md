@@ -30,4 +30,4 @@ Esse é um projeto bem simples, que não exige muitas melhorias. Mas, toda contr
 # Licença
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-    A Licença não se aplica aos logos do Instituto Federal.
+    Esta Licença não se aplica aos logotipos do Instituto Federal, bem como não se aplica as partes de código referente ao Bootstrap e FontAwesome, que possuem suas próprias licenças.
