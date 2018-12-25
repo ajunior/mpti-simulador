@@ -7,8 +7,8 @@ Em Dezembro de 2018 o Instituto Federal da Paraíba - Campus João Pessoa lanço
 - HTML 5
 - CSS 3
 - Vanila Javascript (ECMAScript 6)
-- Bootstrap 4
-- FontAwesome 5
+- Bootstrap 4 (incluindo jQuery)
+- Font Awesome 5
 
 # Contribuições
 

@@ -34,6 +34,4 @@ function calcTotalPontuacaoCandidato () {
  *  JQuery functions
  */
 
- $(function () {
-    $('[data-toggle="tooltip"]').tooltip()
-  })
+ doument(function () { document.querySelector('[data-toggle="tooltip"]').tooltip() });
