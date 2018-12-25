@@ -33,7 +33,3 @@ function calcTotalPontuacaoCandidato () {
  *  Bootstrap
  */
 
- // 
-//(function () { 
-//    document.querySelector('[data-toggle="tooltip"]').tooltip() 
-//});
