@@ -22,28 +22,32 @@
         </nav>
     </header>
     <div class="container">
-        <section class="row">
+        <section id="sec-info" class="row">
             <div class="coll-sx-12 col-sm-12 col-md-12 col-lg-12">
-                <h5>Mestrado Profissional em Tecnologia da Informação</h5>
-                <p class="text">Aprovado pela CAPES em outubro de 2018 o Mestrado iniciará sua primeira turma em 1 de abril de 2019. O curso, que está vinculado a Unidade Acadêmica II (Informática) e sob a coordenação do <a href="http://lattes.cnpq.br/9716270626654261" target="_blanket">Prof. Dr. Francisco Petrônio Alencar de Medeiros</a>, conta com duas linhas de pesquisas: <strong>Gestão e Desenvolvimento de Sistemas</strong> e <strong>Redes e Sistemas Distribuidos</strong>.</p>
-                <p><a href="https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/117/" target="_blanket" class="btn btn-outline-primary" role="button"><i class="far fa-file-alt"></i> Edital 2018</a></p>
-                <h5>Simulador de Pontuação</h5>
-                <p class="text">Quer simular quantos pontos você tem para participar da seleção do <a href="https://estudante.ifpb.edu.br/cursos/195" target="_blanket">Mestrado Profissional em Tecnologia da Informação</a>? A gente te ajuda!</p>
-                <p class="text">Contruimos esta ferramenta para facilitar a vida de quem quer simular se conseguiria ser aprovado e classificado na seleção do MPTI. Preencha sua pontuação no item 1 (Pontuação do Candidato), "chute" a nota que você acha que consegue tirar no item 2 (Pré-Projeto), escolha uma linha de pesquisa e veja se você seria aprovado e classificado na seleção.</p>
-                <p class="text"><span class="badge badge-warning">Atenção</span> Esta ferramenta deve ser usada <strong>exclusivamente</strong> para fins de simulação da pontuação para seleção do MPTI, ela <strong>não substitui</strong> a planilha de pontuação disponibilizada pela coordenação como anexo do edital, nem garante sua aprovação.</p>
+                <div id="sec-info-mpti">
+                    <h5>Mestrado Profissional em Tecnologia da Informação</h5>
+                    <p class="text">Aprovado pela CAPES em outubro de 2018 o Mestrado iniciará sua primeira turma em 1 de abril de 2019. O curso, que está vinculado a Unidade Acadêmica II (Informática) e sob a coordenação do <a href="http://lattes.cnpq.br/9716270626654261" target="_blanket">Prof. Dr. Francisco Petrônio Alencar de Medeiros</a>, conta com duas linhas de pesquisas: <strong>Gestão e Desenvolvimento de Sistemas</strong> e <strong>Redes e Sistemas Distribuidos</strong>.</p>
+                    <p><a href="https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/117/" target="_blanket" class="btn btn-outline-primary" role="button"><i class="far fa-file-alt"></i> Edital 2018</a></p>
+                </div>
+                <div id="sec-info-simulador">
+                    <h5>Simulador de Pontuação</h5>
+                    <p class="text">Quer simular quantos pontos você tem para participar da seleção do <a href="https://estudante.ifpb.edu.br/cursos/195" target="_blanket">Mestrado Profissional em Tecnologia da Informação</a>? A gente te ajuda!</p>
+                    <p class="text">Contruimos esta ferramenta para facilitar a vida de quem quer simular se conseguiria ser aprovado e classificado na seleção do MPTI. Preencha sua pontuação no item 1 (Pontuação do Candidato), "chute" a nota que você acha que consegue tirar no item 2 (Pré-Projeto), escolha uma linha de pesquisa e veja se você seria aprovado e classificado na seleção.</p>
+                    <p class="text"><span class="badge badge-warning">Atenção</span> Esta ferramenta deve ser usada <strong>exclusivamente</strong> para fins de simulação da pontuação para seleção do MPTI, ela <strong>não substitui</strong> a planilha de pontuação disponibilizada pela coordenação como anexo do edital, nem garante sua aprovação.</p>
+                </div>
             </div>
         </section>
-        <section id="pontuaco-candidato">
+        <section id="sec-pontuacao-candidato">
             <div class="card">
                 <div class="card-header">
                     <h5 class="card-title">Simulação da Pontuação para o Mestrado Profissional em Tecnologia da Informação</h5>
                 </div>
                 <div class="card-body">
                     <h5>1. Pontuação do Candidato</h5>
-                    <div class="alert alert-warning" role="alert">
+                    <div id="alerta-cre" class="alert alert-warning" role="alert">
                         Informar o valor do CRE no formato de 0 a 100, com duas casas decimais. Caso o histórico escolar não apresente o CRE, este item será calculado pela média simples das notas das disciplinas cursadas. A pontuação desse item será calculada através de uma regra de três simples, de modo que o CRE seja transformado em uma escala de 0 e 10 pontos.
                     </div>
-                    <section class="table-responsive">
+                    <section id="sec-tbl-pontuacao-candidato" class="table-responsive">
                         <form>
                             <table class="table">
                                 <thead>
@@ -343,7 +347,7 @@
                             </table>
                         </form>
                     </section>
-                    <section>
+                    <section id="sec-pontuacao-pre-projeto">
                         <h5>2. Pré-Projeto (PP)</h5>
                         <table class="table">
                             <tbody>
@@ -357,7 +361,7 @@
                             </tbody>
                         </table>
                     </section>
-                    <section>
+                    <section id="sec-pontuacao-final">
                             <h5>3. Pontuação Final</h5>
                             <table class="table">
                                 <tbody>
@@ -373,7 +377,7 @@
                                 </tbody>
                             </table>
                         </section>
-                    <section>
+                    <section id="sec-situacao">
                         <h5>4. Situação</h5>
                         <table class="table">
                             <tbody>

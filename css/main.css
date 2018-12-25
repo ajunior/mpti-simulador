@@ -1,14 +1,18 @@
-body { 
-    margin-bottom: 30px;
-}
+body { margin-bottom: 30px }
 
-section { 
-    margin-top: 50px; 
-    margin-bottom: 30px;
-}
+section { margin-top: 40px }
 
 nav { height: 60px }
-        
+
+input { width: 70px }
+
+.fa-info-circle { color: #536C8D }
+
+#sec-info { margin-top: 60px }
+
+#sec-info-simulador { margin-top: 40px }
+#alerta-cre { margin-top: 20px }    
+
 #logo-ifpb {
     position: absolute;
     z-index: 100;
@@ -20,12 +24,4 @@ nav { height: 60px }
     padding: 10px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-}
-
-input { 
-    width: 70px;
-}
-
-.fa-info-circle {
-    color: #536C8D;
 }
