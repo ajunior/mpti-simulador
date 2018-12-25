@@ -1,4 +1,6 @@
-body { margin-bottom: 30px; }
+body { 
+    margin-bottom: 30px;
+}
 
 section { 
     margin-top: 50px; 
@@ -8,8 +10,8 @@ section {
 nav { height: 60px }
         
 #logo-ifpb {
-    position:absolute;
-    z-index:100;
+    position: absolute;
+    z-index: 100;
     top: 25%;
     left: 30px;
     width: 120px;
@@ -20,7 +22,9 @@ nav { height: 60px }
     transition: 0.3s;
 }
 
-input { width: 70px }
+input { 
+    width: 70px;
+}
 
 .fa-info-circle {
     color: #536C8D;
