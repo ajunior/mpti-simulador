@@ -21,3 +21,7 @@ nav { height: 60px }
 }
 
 input { width: 70px }
+
+.fa-info-circle {
+    color: #536C8D;
+}
