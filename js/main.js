@@ -29,6 +29,15 @@ function calcTotalPontuacaoCandidato () {
     
 }
 
+document.addEventListener('DOMContentLoaded', function() {
+    //document.querySelector('input[name="curso"]').onchange = (function () { 
+    document.querySelectorAll('input[type="checkbox"]').onchange = (function () { 
+        console.log(this.name)
+    });
+
+
+}, false);
+
 /*
  *  Bootstrap
  */

@@ -13,6 +13,21 @@ input { width: 70px }
 #sec-info-simulador { margin-top: 40px }
 #alerta-cre { margin-top: 20px }    
 
+#logo {
+    position: absolute;
+    z-index: 100;
+    top: 25%;
+    left: 30px;
+    width: 120px;
+    height: 165px;
+    /* background: white; */
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-image: url('../img/logo1.svg')
+}
+
+/*
 #logo-ifpb {
     position: absolute;
     z-index: 100;
@@ -25,3 +40,4 @@ input { width: 70px }
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
 }
+*/
